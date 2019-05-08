@@ -4,8 +4,6 @@
 
 layout: home
 ---
-
-# Pargorn Puttapirat's Home Page
 This is the personal homepage of Pargorn Puttapirat. 
 
 ## Academic information

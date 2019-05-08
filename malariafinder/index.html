@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Malaria Finder</title>
+
+<!--[Google Anayltics Tracking Code]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21840175-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<style>
+/*style*/
+
+body {
+	font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+	background: #A8C4D3 url("bg.jpg") no-repeat fixed center; 
+	background-size: cover;
+    width: 100%; 
+    margin: 0; 
+    padding: 0;
+}
+
+#heading {
+	float: left;
+	width: 96%; 
+	display: block;
+	position: fixed;
+	margin: 0; 
+	padding: 1% 2% 1% 2%; 
+	background-color: white; 
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        width: 70%;
+        margin: 0 15% 0 15%;
+    }
+    #heading {
+        margin-left: -15%;
+    }
+}
+a {
+	text-decoration: none; 
+	color: #09F;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #0FF;
+}
+
+div.info1 {
+	float: left; 
+	width: 100%; 
+}
+
+div.head-but {
+	font-size:20px;
+	color: rgb(102,102,102);
+	float: right;
+	display: block; 
+	vertical-align: middle;
+	text-align: right;
+	margin-top: 5px;
+	margin-right: 20px;
+}
+
+#head-but {
+	color: rgb(102,102,102);
+	height: 100%;
+	vertical-align: middle;
+	display:block;
+}
+
+#head-but:hover {
+	color: rgb(204,204,204);
+}
+</style>
+</head>
+
+<body>
+
+<div id="heading" style="float: left; display: block">
+    <img src="malaria-finder-wide-03.jpg" style="height:60px; width:auto; margin:0; padding:0; float: left;" />
+    
+    <div class="head-but">
+            Malaria Finder<br />
+            <a href="https://facebook.com/BMESWU/" target="_blank" style="color:rgba(204,102,0,1);">
+                Biomedical Engineering, SWU
+            </a>
+    </div>
+</div>
+
+<header style="width: 90%; margin: 12% 2.5% 1% 2%; border-top: solid 2px; border-bottom: solid 2px; padding: 2%; text-align:center; font-size: 2.4vw; float: left;">
+<img src="swu-logo.png" style="width:auto; height: 75px; float: left;" />
+<img src="nsc-logo.png" style="width:auto; height: 75px; float: right;" />
+โปรแกรมสำหรับตรวจจับและแยกชนิดเชื้อมาลาเรีย<br />
+Application for Malaria Parasite Detection and Classification
+</header>
+
+<div style="width: 95%; margin: 1% 2.5% 0 2%; display:block; float: left;">
+	<div style=" width: 28%; margin: 0 1% 0 1%; margin-left: 2%; display:block; float:left; font-size: 2vw; border-right: solid 1px; text-align: center;">
+        <strong>Developer</strong> <br />
+        Wongsakorn Preedanan<br />
+        Pargorn Puttapirat
+    </div>
+  <div style=" width: 28%; margin: 0 1% 0 1%; display:block; float:left; font-size: 2vw;border-right: solid 1px; text-align: center;">
+        <strong>Advisor</strong><br />
+        <p>Dr.Suchada Tantisatirapong</p>
+    </div>
+  <div style=" width: 36%; margin: 0 1% 0 1%; display:block; float:left; font-size: 2vw; text-align: center;">
+        <strong>Faculty of Engineering</strong><br />
+        <p>Srinakharinwirot University</p>
+    </div>
+</div>
+<div style="width: 95%; margin: 1% 2.5% 1% 2.5%; float: left;">
+    <div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">Application Tutorial</div>
+    <div style="float:left; padding:8px 0 8px; text-align: justify; font-size: 1.5vw; width: 100%; padding: 2% 0 2% 0; background-color: rgba(255,255,255,0.4);">
+<iframe style="width:100%; height:640px;" src="https://www.youtube-nocookie.com/embed/jvwuBI7nCAk?rel=0&loop=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+<div style="width: 95%; margin: 1% 2.5% 1% 2.5%; float: left;">
+    <div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">Abstract</div>
+    <div style="float:left; padding:8px 0 8px; text-align: justify; font-size: 1.5vw; width: 96%; padding: 2%; background-color: rgba(255,255,255,0.4);">
+    The development of Malaria Parasite Detection and Classification Application can be used in drug susceptibility test for Malaria anti-infection drug development process. The application takes Giemsa-stained thin blood films images as input. The pre-processing is used to enhance image quality. Then, we use local adaptive thresholding to segment the erythrocytes and morphological process to eliminate noises and debris. Watershed transform is used to separate touching and overlapping cells. The labeling matrix is used for localizing each erythrocyte. Texture analysis is performed to establish parameters such as statistical analysis, wavelet transform, gray-level co-occurrence matrix, and gray-level run length matrix. We use minimum redundancy and maximum relevance method with feed forward selection technique to find appropriate parameters for classification of normal cells and infected cells, both ring and trophozoite stages. Then SVMs were used to classify the cells. The algorithms provide 98.77% accuracy for segmentation, 98.41% accuracy for ring stage classification, and 98.99% accuracy for trophozoite stage classification. The application exhibits positions of infected cells and its stage of infection via GUI with %Parasitemia, which can be recorded as excel file format. 
+    </div>
+</div>
+<div style="width: 95%; margin: 2% 2.5% 2% 2.5%; float: left;">
+<div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">Overview</div>
+<img src="about-04.png" style="width: 101.5%; float: left; margin-top:-10px; margin-left:-1.5%;" />
+</div>
+
+<div style="width: 95%; margin: 2% 2.5% 2% 2.5%; float: left;">
+<div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">Algorithms</div>
+<img src="method.png" style="width: 100%; float: left" />
+</div>
+
+<div style="width: 95%; margin: 2% 2.5% 2% 2.5%; float: left;">
+<div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">User Interface</div>
+<img src="ui-03.png" style="width: 100%; float: left" />
+
+<div style="width: 95%; margin: 2% 2.5% 2% 2.5%; float: left;">
+<div style="float:left; padding:8px 0 8px; text-align:center; font-size: 2vw; width: 100%; background-color: rgba(255,255,255,0.7);">Test Results</div>
+<img src="accuracy.png" style="width: 100%; float: left" />
+</div>
+
+<footer style="width: 91%; margin: 2% 2.5% 2% 2.5%; float: left; text-align:center; font-size: 12pt; color: rgba(153,153,153,1); padding: 0 2% 0 2%;">
+All rights reserved. ©BMESWU
+
+This webpage contains overview of Application for Malaria Parasite Detection and Classification under 18th National Software Contest in 2016.
+For any questions, concerns, and comments please contact Department of Biomedical Engineering, Faculty of Engineering, Srinakharinwirot University. 
+<br /><br />
+This page is maintained by <a href="http://zodsai.com/">Zodsai.com</a>
+</footer>
+</body>
+</html>

@@ -32,9 +32,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-default-layout
   - jekyll-feed
-  - jemoji
 
 
 # Exclude from processing.

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: null
+title: Pargorn's home page
 ---
 
 ## Biography

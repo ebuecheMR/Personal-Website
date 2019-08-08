@@ -37,6 +37,7 @@ plugins:
 header_pages: 
   - about.md
   - collections.md
+  - cv.md
 
 
 # Exclude from processing.

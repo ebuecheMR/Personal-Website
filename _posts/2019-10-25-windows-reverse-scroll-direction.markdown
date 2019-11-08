@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reverse the mouse scroll direction to nautral on Windows 10"
+title:  "Reverse the mouse scroll direction to natural on Windows 10"
 date:   2019-10-25 16:10:00 +0800
 categories: general
 ---

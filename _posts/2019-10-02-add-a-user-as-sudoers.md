@@ -13,3 +13,16 @@ username    ALL=(ALL:ALL) ALL
 ```
 
 /Pargorn
+
+--- 
+Update on 20191014
+
+We can make the access even more permissive by specifying 
+
+```
+username    ALL=(ALL:ALL) NOPASSWD:ALL
+```
+
+After this, it is likely that you will forget your password soon! ;-P
+
+/Pargorn

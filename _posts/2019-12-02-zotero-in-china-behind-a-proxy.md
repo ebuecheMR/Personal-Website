@@ -26,9 +26,8 @@ Go to **Preference** and add `*.zotero.org` to the _by pass list_.
 
 This is an advance setting in Zotero. 
 
-```
-If you need to configure the Zotero proxy settings separately from the system settings, you can access the Config Editor from the Advanced pane of the Zotero preferences, apply the same settings that you would in Firefox (http://kb.mozillazine.org/Network.proxy.type), and restart Zotero, but the default setting (network.proxy.type = 5, to use the system proxy settings) is recommended.
-```
+> If you need to configure the Zotero proxy settings separately from the system settings, you can access the Config Editor from the Advanced pane of the Zotero preferences, apply the same settings that you would in [Firefox](http://kb.mozillazine.org/Network.proxy.type), and restart Zotero, but the default setting (network.proxy.type = 5, to use the system proxy settings) is recommended.
+
 From [Zotero Wiki](https://www.zotero.org/support/kb/connection_error)
 
 Happy Zoteroing!

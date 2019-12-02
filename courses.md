@@ -15,12 +15,12 @@ Lecturer: Professor Na Lu (2017)
 - [Final Project](https://github.com/marchputt/courses/tree/master/2017-bddl)
 
 # Biophotonics 
-Lecturer: Professor Yi Wenhui
+Lecturer: Professor Yi Wenhui 易文辉 (2017)
 - Group project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/rna-transcription-translation-and-protein-synthesis.pdf)
 - Individual final project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/Biosensor-pulse-oximeter-licensed.pdf)
 
 # Wireless network and mobile computing 
-Lecturer: Professor Han Ding
+Lecturer: Professor Han Ding 丁菡 (2019)
 - [Course resources](https://github.com/marchputt/courses/tree/master/2019-wnmb)
 - [In-class presentation](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-duet.pdf)
 

@@ -13,14 +13,14 @@ I have found two solutions to fix this particupar problem.
 ### In the system (macOS)
 Go to advance setting of the NetworkPreference and add `*.zotero.org` to the _by pass list_. 
 
-![Advance setting](img/proxy/advance.png)
+![Advance setting](/assets/img/proxy/advance.png)
 
-![Proxy setting](img/proxy/proxy-setting.png)
+![Proxy setting](/assets/img/proxy/proxy-setting.png)
 
 ### In ShadowSocks' setting 
 Go to **Preference** and add `*.zotero.org` to the _by pass list_. 
 
-![ShadowSocks by pass list](img/proxy/ss-by-pass-list.png)
+![ShadowSocks by pass list](/assets/img/proxy/ss-by-pass-list.png)
 
 ## Configure it from Zotero 
 

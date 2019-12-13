@@ -19,6 +19,16 @@ Lecturer: Professor Yi Wenhui 易文辉 (2017)
 - Group project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/rna-transcription-translation-and-protein-synthesis.pdf)
 - Individual final project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/Biosensor-pulse-oximeter-licensed.pdf)
 
+# Physics of semiconductor
+Lecturer: Professor Yun Feng and Professor Li Yufeng (2017)
+- Individual presentation - [presentation](https://github.com/marchputt/courses/blob/master/2017-physics-semiconductor/presentation/pargorn-puttapirat-degradation-of-solar-cell-licensed.pdf)
+- Individual final report - [report](https://github.com/marchputt/courses/blob/master/2017-physics-semiconductor/report/v3-1_Formatted_Degradation-of-solar-cells_PargornPUTTAPIRAT_3117999011-licensed.pdf)
+
+# Semiconductor and Lighting 
+Lecturer: Professor Yun Feng (2017)
+- Individual presentation - [presentation](https://github.com/marchputt/courses/blob/master/2017-semiconductor-lighting/final-presentation/pargorn-puttapirat-amoled-final-presentation.pdf)
+- Individual final report - [report](https://github.com/marchputt/courses/blob/master/2017-semiconductor-lighting/final-report/v3-1_Formatted_SL_FinalReport_PargornPuttapirat_3117999011-licensed.pdf)
+
 # Wireless network and mobile computing 
 Lecturer: Professor Han Ding 丁菡 (2019)
 - [Course resources](https://github.com/marchputt/courses/tree/master/2019-wnmb)

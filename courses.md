@@ -32,7 +32,8 @@ Lecturer: Professor Yun Feng (2017)
 # Wireless network and mobile computing 
 Lecturer: Professor Han Ding 丁菡 (2019)
 - [Course resources](https://github.com/marchputt/courses/tree/master/2019-wnmb)
-- [In-class presentation](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-duet.pdf)
+- [In-class presentation 1](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-duet.pdf)
+- [In-class presentation 2](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-eBP.pdf)
 
 ---
 

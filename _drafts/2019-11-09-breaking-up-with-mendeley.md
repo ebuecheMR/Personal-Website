@@ -11,5 +11,15 @@ But, now my heart is set on Zotero and here's why.
 ## It started with buggy LibreOffice support on Ubuntu. 
 A few months ago, a bug hit me and disrupt my entire workflow. I accidentally click "insert citation" without opening Mendely first. Normally, a warning would appear and everything will be resolved once I run the two program in parallel. However, not this time! After that incidence, I simply cannot insert citations to my LibreOffice document with Mendeley anymore. Once I tried to insert a new citation, the prompt to insert just would not appear. Instead, the entire Mendeley window shows up. I tried all basic troubleshoots I could think of: search for errors on the web, resetting Mendeley, sing out and in again, complete removing both software and reinstalling it again. Nothing works! 
 
+### Why and how? 
+I opened a ticket to Mendely team and their answer could be concluded as: 
+- They don't support Ubuntu 18 (and it's now 2020!). 
+- I was using the unsupported environment. 
+- So the software did not work properly. 
+
+This is a sign that they do not care about Linux users, so this is the breaking point where I decided to abandon Mendeley. 
+
+
+
 
 I hope everyone will have a nice day and enjoy reading more than ever before :-) 

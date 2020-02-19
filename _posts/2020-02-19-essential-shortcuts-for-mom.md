@@ -2,7 +2,8 @@
 layout: post
 title:  "ชุดคำสั่งลัดในแมคสำหรับคุณแม่"
 date:   2020-02-19 15:05:00 +0700
-categories: mac, mom
+categories: general
+tags: mac mom
 redirect_from:
     - /short
 ---

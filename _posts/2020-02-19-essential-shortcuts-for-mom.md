@@ -24,6 +24,8 @@ Option ⌥ + Space bar
 ### ตัวอย่างสิ่งที่ค้นหาได้
 - Finder
 - Chrome (Google Chrome)
+- LastPass
+- Line
 
 ## Other resources 
 - [Apple Support - Mac Shortcuts](https://support.apple.com/en-us/HT201236)

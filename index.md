@@ -23,8 +23,8 @@ See [the publication page](/publications/)
 <br />
 
 ## Social networks
-Facebook: [marchputt](https://www.facebook.com/marchputt)
-Twitter: [@marchputt](https://twitter.com/marchputt)
-ResearchGate: [Pargorn Puttapirat](https://www.researchgate.net/profile/Pargorn_Puttapirat)
+Facebook: [marchputt](https://www.facebook.com/marchputt);
+Twitter: [@marchputt](https://twitter.com/marchputt);
+ResearchGate: [Pargorn Puttapirat](https://www.researchgate.net/profile/Pargorn_Puttapirat);
 
 -----

@@ -7,6 +7,11 @@ permalink: /cv/
 Download the latest CV in [PDF](/assets/files/pargorn-puttapirat-cv2019_r.pdf)
 
 ---
+## Names
+- English name (_first, last_): Pargorn Puttapirat
+- Thai name / ชื่อภาษาไทย: ภากร พุทธาภิรัตน์
+- Offical Chinese name (for patent registration): 帕戈姆·普塔皮拉特
+- Chinese name: _(hidden)_
 
 ## Education
 ### Degree Program

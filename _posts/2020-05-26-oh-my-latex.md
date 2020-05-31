@@ -5,7 +5,7 @@ date:   2020-05-26 15:00:00 +0700
 categories: latex tutorial
 ---
 
-This is an ongoing post that I will store useful TeX-related solution that works for me. By browsing this post, you will know that LaTeX is capible of doing so many things. We just need to know how to speak LaTeX. This post is also kind of a cheat sheet too. 
+This is an _ongoing post_ that I will store useful TeX-related solution that works for me. By browsing this post, you will know that LaTeX is capible of doing so many things. We just need to know how to speak LaTeX. This post is also kind of a cheat sheet too. 
 
 ## Table
 - [Manual line break in the same cell/table](https://stackoverflow.com/questions/3068555/how-to-insert-manual-line-breaks-inside-latex-tables)

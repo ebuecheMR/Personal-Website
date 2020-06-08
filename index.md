@@ -4,7 +4,7 @@ title: Welcome to the home page
 ---
 
 ## Biography
-Pargorn Puttapirat is currently a doctoral student in Computer Science and Technology Program at Xi’an Jiaotong University. He is supervised by [Professor Chen Li](http://www.chenli.group/member/) research in the [Biomedical Semantic Understanding Group](http://chenli.group). He received B.Eng. degree in [Biomedical Engineering Program](http://bme.eng.swu.ac.th/) from Srinakharinwirot University, Thailand in 2017 and M.Eng. in Computer Science and Technology from Xi'an Jiaotong University in 2019. His past works include medical image analysis for development of anti-malarial drug and 3D model-based hand poses estimation. His research interests is in the area of biomedical science and engineering, specifically medical and microscopy image processing, artificial intelligence, and oncology. 
+Pargorn Puttapirat is currently a doctoral student in Computer Science and Technology Program at Xi’an Jiaotong University. He is supervised by [Professor Chen Li](http://www.chenli.group/member/), in the [Biomedical Semantic Understanding Group](http://chenli.group). He received B.Eng. degree in [Biomedical Engineering Program](http://bme.eng.swu.ac.th/) from Srinakharinwirot University, Thailand in 2017 and M.Eng. in Computer Science and Technology from Xi'an Jiaotong University in 2019. His past works include medical image analysis for development of anti-malarial drug and 3D model-based hand poses estimation. His research interests is in the area of biomedical science and engineering, specifically medical and microscopy image processing, artificial intelligence, and oncology. 
 
 ## Academic information
 _Current Projects_

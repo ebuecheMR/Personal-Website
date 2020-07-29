@@ -16,11 +16,11 @@ Download the latest CV in [PDF](/assets/files/pargorn-puttapirat-cv2019_r.pdf)
 ## Education
 ### Degree Program
 * 2019 - present : D.Eng (Computer Science and Technology), Xi’an Jiaotong University _Funded by Chinese Scholarship Council (CSC)_
-* 2017 - 2019 : M.Eng (Electronic and Information Engineering), Xi’an Jiaotong University _Funded by The Information Technology Foundation under the Initiative   of Her Royal Highness Princess Maha Chakri Sirindhorn_
-* 2013 - 2017 : B.Eng (Biomedical Engineering), Srinakharinwirot University 
+* 2017 - 2019 : M.Eng (Electronic and Information Engineering), Xi’an Jiaotong University _[Funded by The Information Technology Foundation under the Initiative of Her Royal Highness Princess Maha Chakri Sirindhorn](https://www.princess-it.org/th/)_
+* 2013 - 2017 : B.Eng ([Biomedical Engineering](http://bme.eng.swu.ac.th)), Srinakharinwirot University 
 
 ### Non-Degree Program
-* 2014 : **Exchange Student** at Juniata College, USA to study Liberal Arts  (Scholarship funded by Srinakharinwirot University)
+* 2014 : **Exchange Student** at Juniata College, USA to study Liberal Arts (Scholarship funded by Srinakharinwirot University)
 
 ### Internships
 * 2016 : University of Fukui and Srinakharinwirot University Internship Program 2016, Japan (Scholarship funded by the Faculty of Engineering, Srinakharinwirot University)
@@ -39,12 +39,17 @@ Medical and general image processing, histopathological image analysis, genotype
 ## Language Skills
 * Native Thai
 * Fluent English 
+* Beginner Chinese
 
 ## Skills 
 * Programming languages: Python, MATLAB, Swift, C++, Javascript
 * Libraries & Frameworks: Jupyter Notebook, OpenCV, Sci-kit Image, Flask, Git, Raspberry Pi Interfacing
 
 ## Publications
+* Dong, Y., Puttapirat, P., Deng, J., Li, C. (2020). LibMI - An open source library for efficient histopathological image processing. Journal of Pathology Informatics. (accepted) 
+* Puttapirat, P., Li, C., Zhang, H., Deng, J., Dong, Y., Shi, J., He, H., Gao, Z., Wang, C., & Zhang, X. (2019). OpenHI2—Open source histopathological image platform. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2696–2701. https://doi.org/10.1109/BIBM47256.2019.8983322
+* Shi, J., Gao, Z., Zhang, H., Puttapirat, P., Wang, C., Zhang, X., & Li, C. (2019). Effects of annotation granularity in deep learning models for histopathological images. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2702–2708. https://doi.org/10.1109/BIBM47256.2019.8983158
+* Wang, C., Yang, Z., Wang, K., Puttapirat, P., Li, C., & Zhang, G. (2019). Comparing digital histology slides with multiple staining based on decoloring and dyeing technique. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2709–2714. https://doi.org/10.1109/BIBM47256.2019.8982953
 * Puttapirat, P., Zhang, H., Deng, J., Dong, Y., Shi, J., Lou, P., … Li, C. (2019). OpenHI: Open platform for histopathological image annotation. International Journal of Data Mining and Bioinformatics, 22(4), 328–349. https://doi.org/10.1504/IJDMB.2019.101393
 * Puttapirat, P., Zhang, H., Lian, Y., Wang, C., Zhang, X., Yao, L., & Li, C. (2018). OpenHI - An open source framework for annotating histopathological image. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1076–1082). Madrid, Spain: IEEE. https://doi.org/10.1109/BIBM.2018.8621393
 * Li, K., Zhang, D., Raza, F., Zhang, Z., Puttapirat, P., Liu, Y., & Zhang, Y. (2018). Multi-contact switch using double-dressing regularity of probe, fluorescence, and six-wave mixing in a Rydberg atom. The Journal of Chemical Physics, 149(7), 074310. https://doi.org/10.1063/1.5034066

@@ -7,7 +7,7 @@ permalink: /courses/
 This page contains materials I used in the courses at XJTU. 
 
 # Digital image processing
-Lecturer: Professor Liang (2017)
+Lecturer: Professor [Liang Yijun](http://gr.xjtu.edu.cn/web/liang.yj) (2017)
 - [Final Project](https://github.com/marchputt/courses/tree/master/2017-dip)
 
 # Big data and deep learning 

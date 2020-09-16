@@ -15,7 +15,7 @@ Lecturer: Professor Na Lu (2017)
 - [Final Project](https://github.com/marchputt/courses/tree/master/2017-bddl)
 
 # Biophotonics 
-Lecturer: Professor Yi Wenhui 易文辉 (2017)
+Lecturer: [Professor Yi Wenhui 易文辉](http://gr.xjtu.edu.cn/web/yiwenhui/7) (2017)
 - Group project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/rna-transcription-translation-and-protein-synthesis.pdf)
 - Individual final project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/Biosensor-pulse-oximeter-licensed.pdf)
 

@@ -82,8 +82,6 @@ This is a guide to operate Jekyll with Markdown for mom.
 
 ## การติดลิ้งค์ (links)
 
-![link-banner](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hyperlink-Wikipedia.svg)
-
 คล้ายกับการแทรกภาพ [การติดลิ้งค์](https://en.wikipedia.org/wiki/Hyperlink)สามารถทำได้โดยใช้คำสั่งพิเศษเช่นกัน โดยคำสั่งพิเศษนี้สามารถแทรกอยู่ตามเนื้อความทั่วไปได้ คำสั่งนี้ประกอบด้วยสองดังนี้ 
 
 ```

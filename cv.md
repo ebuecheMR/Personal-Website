@@ -4,18 +4,18 @@ title: CV
 permalink: /cv/
 ---
 
-Download the latest CV in [PDF](/assets/files/pargorn-puttapirat-cv2019_r.pdf)
+Download the latest CV in [PDF](/assets/files/pargorn-puttapirat-cv2021.pdf)
 
 ---
 ## Names
 - English name (_first, last_): Pargorn Puttapirat
 - Thai name / ชื่อภาษาไทย: ภากร พุทธาภิรัตน์
 - Offical Chinese name (for patent registration): 帕戈姆·普塔皮拉特
-- Chinese name: _(hidden)_
+- Chinese name: _(redacted)_
 
 ## Education
 ### Degree Program
-* 2019 - present : D.Eng (Computer Science and Technology), Xi’an Jiaotong University _Funded by Chinese Scholarship Council (CSC)_
+<!-- * 2019 - present : D.Eng (Computer Science and Technology), Xi’an Jiaotong University _Funded by Chinese Scholarship Council (CSC)_ -->
 * 2017 - 2019 : M.Eng (Electronic and Information Engineering), Xi’an Jiaotong University _[Funded by The Information Technology Foundation under the Initiative of Her Royal Highness Princess Maha Chakri Sirindhorn](https://www.princess-it.org/th/)_
 * 2013 - 2017 : B.Eng ([Biomedical Engineering](http://bme.eng.swu.ac.th)), Srinakharinwirot University 
 
@@ -46,16 +46,13 @@ Medical and general image processing, histopathological image analysis, genotype
 * Libraries & Frameworks: Jupyter Notebook, OpenCV, Sci-kit Image, Flask, Git, Raspberry Pi Interfacing
 
 ## Publications
-* Dong, Y., Puttapirat, P., Deng, J., Li, C. (2020). LibMI - An open source library for efficient histopathological image processing. Journal of Pathology Informatics. (accepted) 
+* Gao, Z., Puttapirat, P., Shi, J., & Li, C. (2020). Renal Cell Carcinoma Detection and Subtyping with Minimal Point-Based Annotation in Whole-Slide Images. In A. L. Martel, P. Abolmaesumi, D. Stoyanov, D. Mateus, M. A. Zuluaga, S. K. Zhou, D. Racoceanu, & L. Joskowicz (Eds.), Medical Image Computing and Computer Assisted Intervention – MICCAI 2020 (pp. 439–448). Springer International Publishing.
+* Dong, Y., Puttapirat, P., Deng, J., Zhang, X., & Li, C. (2020). LibMI: An Open Source Library for Efficient Histopathological Image Processing. Journal of Pathology Informatics, 11, 26. https://doi.org/10.4103/jpi.jpi_11_20 
 * Puttapirat, P., Li, C., Zhang, H., Deng, J., Dong, Y., Shi, J., He, H., Gao, Z., Wang, C., & Zhang, X. (2019). OpenHI2—Open source histopathological image platform. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2696–2701. https://doi.org/10.1109/BIBM47256.2019.8983322
-* Shi, J., Gao, Z., Zhang, H., Puttapirat, P., Wang, C., Zhang, X., & Li, C. (2019). Effects of annotation granularity in deep learning models for histopathological images. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2702–2708. https://doi.org/10.1109/BIBM47256.2019.8983158
 * Wang, C., Yang, Z., Wang, K., Puttapirat, P., Li, C., & Zhang, G. (2019). Comparing digital histology slides with multiple staining based on decoloring and dyeing technique. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2709–2714. https://doi.org/10.1109/BIBM47256.2019.8982953
 * Puttapirat, P., Zhang, H., Deng, J., Dong, Y., Shi, J., Lou, P., … Li, C. (2019). OpenHI: Open platform for histopathological image annotation. International Journal of Data Mining and Bioinformatics, 22(4), 328–349. https://doi.org/10.1504/IJDMB.2019.101393
 * Puttapirat, P., Zhang, H., Lian, Y., Wang, C., Zhang, X., Yao, L., & Li, C. (2018). OpenHI - An open source framework for annotating histopathological image. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1076–1082). Madrid, Spain: IEEE. https://doi.org/10.1109/BIBM.2018.8621393
-* Li, K., Zhang, D., Raza, F., Zhang, Z., Puttapirat, P., Liu, Y., & Zhang, Y. (2018). Multi-contact switch using double-dressing regularity of probe, fluorescence, and six-wave mixing in a Rydberg atom. The Journal of Chemical Physics, 149(7), 074310. https://doi.org/10.1063/1.5034066
 * Li, K., Puttapirat, P., Liu, Y., Jiang, W., Imran, A., Lysa Marlyne, M.-K., … Zhang, Y. (2018). Phase controlled six-wave mixing parametrical amplification to yield correlated light beams. Laser Physics, 28(7), 075403. https://doi.org/10.1088/1555-6611/aabec4
-* Wang, R., Puttapirat, P., Raza, F., Ahmed, I., Wang, H., & Zhang, Y. (2018). Hybrid correlation and squeezing with spontaneously generated coherence effect. Laser Physics Letters, 15(8), 085401. https://doi.org/10.1088/1612-202X/aac861
-* Tang, H., Ahmed, I., Puttapirat, P., Wu, T., Lan, Y., Zhang, Y., & Li, E. (2018). Investigation of multi-bunching by generating multi-order fluorescence of NV center in diamond. Physical Chemistry Chemical Physics, 20(8). https://doi.org/10.1039/c7cp08005k
 * Puttapirat, P., & Charoenpong, T. (2017). Hand posture estimation from 2D image sequence by hand landmark identification. In 2017 9th International Conference on Knowledge and Smart Technology: Crunching Information of Everything, KST 2017. https://doi.org/10.1109/KST.2017.7886088
 * Puttapirat, P., Phothisonothai, M., & Tantisatirapong, S. (2016). Automated segmentation of erythrocytes from Giemsa-stained thin blood films. In 2016 8th International Conference on Knowledge and Smart Technology, KST 2016. https://doi.org/10.1109/KST.2016.7440503
 

@@ -6,6 +6,7 @@ permalink: /cv/
 
 Download the latest CV in [PDF](/assets/files/pargorn-puttapirat-cv2021.pdf)
 
+![Pargorn Puttapirat profile picture](/assets/img/profile-picture.jpg)
 ---
 ## Names
 - English name (_first, last_): Pargorn Puttapirat

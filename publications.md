@@ -3,9 +3,13 @@ layout: page
 title: Pargorn Puttapirat's publications
 permalink: /publications/
 ---
-For the latest updates, see [my Google Scholar Profile page](https://scholar.google.com/citations?user=XyssVicAAAAJ&hl=en) or [dblp](https://dblp.uni-trier.de/pers/hd/p/Puttapirat:Pargorn).
 
-## List of publications
+Please use ORCID for latest tracking:
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4999-2915" href="https://orcid.org/0000-0002-4999-2915" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4999-2915</a></div>
+<br />
+
+## Curated list of publications
 
 **Puttapirat, P.**, Li, C., Zhang, H., Deng, J., Dong, Y., Shi, J., He, H., Gao, Z., Wang, C., & Zhang, X. (2019). OpenHI2—Open source histopathological image platform. 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2696–2701. [https://doi.org/10.1109/BIBM47256.2019.8983322](https://doi.org/10.1109/BIBM47256.2019.8983322)
 

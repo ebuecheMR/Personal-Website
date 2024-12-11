@@ -9,4 +9,4 @@ This is the source code of Ed's personal profile website. Everything is pretty m
 - Non-code part of this project is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
 ## The website
-[edouard.bueche.com](https://edouard.bueche.com)
+[edouardbuechewebpage.com](https://edouardbuechewebpage.com)

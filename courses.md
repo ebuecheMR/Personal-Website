@@ -4,37 +4,65 @@ title: Courses
 permalink: /courses/
 ---
 
-This page contains materials I used in the courses at XJTU. 
+This page highlights key courses and projects completed during my Bachelor in Mathematics and Master in Financial Engineering studies at EPFL.
 
-# Digital image processing
-Lecturer: Professor [Liang Yijun](http://gr.xjtu.edu.cn/web/liang.yj) (2017)
-- [Final Project](https://github.com/marchputt/courses/tree/master/2017-dip)
+# Applied Data Analysis
+Learn data analysis techniques and practices with case studies and homeworks.
+- Final project: Wikipedia Request For Adminship :Power Voters and Community Detection :    
+[Results (URL)](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/)
 
-# Big data and deep learning 
-Lecturer: Professor Na Lu (2017)
-- [Final Project](https://github.com/marchputt/courses/tree/master/2017-bddl)
+# Financial Big Data
+Lecturer: Professor Damien Challet
 
-# Biophotonics 
-Lecturer: [Professor Yi Wenhui 易文辉](http://gr.xjtu.edu.cn/web/yiwenhui/7) (2017)
-- Group project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/rna-transcription-translation-and-protein-synthesis.pdf)
-- Individual final project - [presentation](https://github.com/marchputt/courses/blob/master/2017-biophotonics/Biosensor-pulse-oximeter-licensed.pdf)
+Big data handling, cleaning, learning how to extract valuable insights from highfrequency data. Strategy testing and modelling.
+- Project: Real Time Bubble Detection using Intraday Data
 
-# Physics of semiconductor
-Lecturer: Professor Yun Feng and Professor Li Yufeng (2017)
-- Individual presentation - [presentation](https://github.com/marchputt/courses/blob/master/2017-physics-semiconductor/presentation/pargorn-puttapirat-degradation-of-solar-cell-licensed.pdf)
-- Individual final report - [report](https://github.com/marchputt/courses/blob/master/2017-physics-semiconductor/report/v3-1_Formatted_Degradation-of-solar-cells_PargornPUTTAPIRAT_3117999011-licensed.pdf)
+# Quantitative Risk Management
+Professor Damir Filipovic  
 
-# Semiconductor and Lighting 
-Lecturer: Professor Yun Feng (2017)
-- Individual presentation - [presentation](https://github.com/marchputt/courses/blob/master/2017-semiconductor-lighting/final-presentation/pargorn-puttapirat-amoled-final-presentation.pdf)
-- Individual final report - [report](https://github.com/marchputt/courses/blob/master/2017-semiconductor-lighting/final-report/v3-1_Formatted_SL_FinalReport_PargornPuttapirat_3117999011-licensed.pdf)
+Studied risk modeling techniques with applications to portfolio management.
+Value at Risk, Expected Shortfall, Loss modelling.
 
-# Wireless network and mobile computing 
-Lecturer: Professor Han Ding 丁菡 (2019)
-- [Course resources](https://github.com/marchputt/courses/tree/master/2019-wnmb)
-- [In-class presentation 1](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-duet.pdf)
-- [In-class presentation 2](https://github.com/marchputt/courses/blob/master/2019-wnmb/presentation-eBP.pdf)
+# Advanced Derivatives
+Professor Elena Perazzi
 
----
+Focused on the pricing and risk management of advanced financial derivatives.  
+Pricing Amercian Options, Asian Options, Bermudean Options, Swaptions, Exotic Options.
+Discretizations to solve PDEs numerically.
 
-Last modified: December 14th, 2019
+- Report: [Results (PDF)](/assets/files/AD.pdf)
+
+# Probability and Stochastic Calculus
+Professor Damir Filipovic  
+
+ Stochastic processes and their applications in financial modeling. 
+ Ito's Lemma and Feymann-Kac Theorem, Geometric Brownian Motion, Stochastic integration process. Stochastic Simulations, Monte Carlo Simulations
+
+
+# Probability and Statistics
+Professor Juhan Aru  
+
+Focused on probability distributions, statistical inference, hypothesis testing and real-world data applications.  
+Probability Measure, Random Variables, Law of large numbers, Central Limit Theorem.
+
+# Machine Learning in Finance 
+Classification Algorithms, Artificial Neural Network, Unsupervised Learning, Natural Language Processing, Encoders, Transformers.
+
+- Project :Analyzed subreddit comments using natural language processing (NLP) techniques to identify actionable insights and monitor market trends.  
+[See the full report (PDF)](/assets/files/ML_project.pdf)
+
+# Time Series Analysis
+Professor Sofia Olhede
+
+Learned time series modeling techniques, including ARIMA and GARCH models.  Spectral Analyis, AutoCovariance Functions, Autocorrelation Functions
+- Homework: [Report PDF](/assets/files/Time_Series_Assignement-6.pdf)
+
+
+# Continuous Optimization & Optimization Methods
+Lecturer: Professor Nicolas Boumal
+
+Learned advanced methods for solving optimization problems.
+Studied optimization techniques for continuous systems, including gradient-based and heuristic methods.  
+
+
+Last modified: December 14th, 2024

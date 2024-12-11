@@ -1,30 +1,90 @@
 ---
 layout: home
-title: Welcome to the home page
+title: Welcome to my Personal Website
 ---
+
+
+<img src="/assets/img/pic3.jpeg" alt="Picture" style="width: 250px; float: right; margin: 0 0 20px 20px;">
+
+### Searching an Internship to do my Master Thesis, for February or July 2025.
+
 
 ## Biography
 
-Pargorn Puttapirat received his M.Eng from the Department of Computer Science and Technology at Xi’an Jiaotong University under the supervison of [Professor Chen Li](http://www.chenli.group/member/), in the [Biomedical Semantic Understanding Group](http://chenli.group). He received B.Eng. degree in [Biomedical Engineering Program](http://bme.eng.swu.ac.th/) from Srinakharinwirot University, Thailand in 2017. His past works include medical image analysis for development of anti-malarial drug and 3D model-based hand poses estimation. His research interests is in the area of biomedical science and engineering, specifically medical and microscopy image processing, artificial intelligence, and oncology.
+I am currently pursuing a Master’s degree in Financial Engineering at EPFL, specializing in data science and machine learning. I hold a Bachelor’s degree in Mathematics from EPFL, with a focus on algebra, geometry, and optimization. My strong analytical skills and technical expertise are complemented by a passion for problem-solving and innovation in finance and data analysis.
 
-## Academic information
+My academic projects include analyzing financial subreddit data to develop trading strategies and using data science techniques to uncover patterns in community voting behaviors on Wikipedia. I am also passionate about leveraging advanced analytical tools such as Python, MATLAB, and R to solve complex challenges in finance and beyond.
 
-- **OpenHI - Open Histopathological Image Platform**:
-  See more at [OpenHI GitLab repository (https://gitlab.com/BioAI/OpenHI)](https://gitlab.com/BioAI/OpenHI)
-- 3D Hand Poses Estimation ([see more](/3dhand/))
-- Malaria Finder ([see more](/malariafinder/))
+Outside academics, I played drums for 12 years, demonstrating discipline, coordination, and a strong sense of teamwork.
 
-### Publications
+---
+---
+<div style="display: flex; justify-content: space-between;">
 
-See [the publication page](/publications/)
+<div style="flex: 1; margin-right: 20px;">
+<h2>Languages</h2>
+<ul>
+  <li><strong>French</strong> 🇫🇷 (Native)</li>
+  <li><strong>English</strong> 🇬🇧 (Fluent)</li>
+  <li><strong>German</strong> 🇩🇪 (Proficient - B2)</li>
+  <li><strong>Spanish</strong> 🇪🇸 (Intermediate - B1)</li>
+</ul>
+</div>
 
-### My ORCID
+<div style="flex: 1; margin-left: 20px;">
+<h2>Programming Languages</h2>
+<ul>
+  <li><strong>Python</strong>: Advanced</li>
+  <li><strong>R</strong>: Intermediate</li>
+  <li><strong>MATLAB</strong>: Advanced</li>
+  <li><strong>C++</strong>: Intermediate</li>
+  <li><strong>LaTeX</strong>: Advanced</li>
+</ul>
+</div>
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4999-2915" href="https://orcid.org/0000-0002-4999-2915" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4999-2915</a></div>
-<br />
+</div>
+---
+---
 
-## Social networks
+## Academic
 
-Facebook: [marchputt](https://www.facebook.com/marchputt);
+- **Master in Financial Engineering at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" } 
+  - Quantitative Risk Managment, Portfolio Managment, Asset Managment.
+  - Data Science and Machine Learning coursework beside mandatory course.
+  - Stochastic Process, Time Serie Analysis, Probability Theory.
 
+- **Bachelor in Mathematics at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" }
+  - Algebra, Geometry, Topology.
+  - Optimisation, Programming.
+  - Statistics & Probability
+
+- **Projects**:
+  - Detection of short-lived market bubbles using big data techniques.
+  - Build a trading strategy combining numerical data and NLP tools on financial subreddit comments.
+[  [See the report (PDF)](/assets/files/ML_project.pdf) ]
+  - Data science exploration of Wikipedia Adminship Requests, Community Detection & Power Voters.   [ [View Results (URL)](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/) ]
+
+
+### Professional Experience
+
+- **Teaching Assistant**:  
+  Assistant, helping student do the exercices, answer questions, correct exams.  
+
+  - Assisted 8 courses for 12 times in total: Linear Algebra, Topology, Differential Geometry, Electromagnetism, Mechanic Physic.
+
+- **Travel Committee Member**:  
+  Organized graduation trips for the mathematics section, displaying teamwork and leadership abilities.
+
+## Interests and Qualities
+
+- **Interests**: Finance, mathematics, music (drums), programming, and psychology.
+- **Qualities**: Optimism, dedication, ability to learn quickly, and excellent interpersonal skills.
+
+## Contact
+
+**Email**: edouard.bueche@epfl.ch  
+**LinkedIn**: [Edouard Bueche](https://linkedin.com/in/edouard-bueche-941800332)  
+
+---
+---
 ---

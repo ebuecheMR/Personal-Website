@@ -1,5 +1,5 @@
 # Pargorn's personal profile website
-This is the source code of Pargorn Puttapirat's personal profile website. Everything is pretty much based on `Jekyll` and `markdown`. 
+This is the source code of Ed's personal profile website. Everything is pretty much based on `Jekyll` and `markdown`. 
 
 ## How to run
 ```bundle exec jekyll serve```

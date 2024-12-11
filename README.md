@@ -9,4 +9,4 @@ This is the source code of Pargorn Puttapirat's personal profile website. Everyt
 - Non-code part of this project is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
 ## The website
-[pargorn.puttapirat.com](https://pargorn.puttapirat.com)
+[edouard.bueche.com](https://edouard.bueche.com)

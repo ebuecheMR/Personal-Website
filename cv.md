@@ -147,7 +147,7 @@ Applied clustering and graph-based techniques to analyze user behavior and votin
 - **Academic Interests**: Finance, Mathematics, Data Science, Machine Learning  
 - **Creative Pursuits**: Drummer with over 12 years of experience in live and studio settings  
 - **Additional Interests**: Marketing, Psychology, Programming  
--  **Sports** Practice Sailling for 14 years and Badminton for 8 years.
+- **Sports**: Practice Sailling for 14 years and Badminton for 8 years.
 
 ---
 

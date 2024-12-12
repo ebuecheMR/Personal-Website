@@ -124,6 +124,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 **Email**: edouard.bueche@epfl.ch  
 **LinkedIn**: [Edouard Bueche](https://linkedin.com/in/edouard-bueche-941800332)  
+**GitHub**: [EbuecheMR[]()](https://github.com/ebuecheMR)
 
 ---
 ---

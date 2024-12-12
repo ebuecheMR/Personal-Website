@@ -51,7 +51,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 ## Academic
 
-- **Master in Financial Engineering at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" } 
+- **Master in Financial Engineering at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" }
   - Quantitative Risk Managment, Portfolio Managment, Asset Managment.
   - Data Science and Machine Learning coursework beside mandatory course.
   - Stochastic Process, Time Serie Analysis, Probability Theory.
@@ -62,6 +62,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   - Statistics & Probability
 
 - **Projects**:
+
   - Detection of short-lived market bubbles using big data techniques.
   - Build a trading strategy combining numerical data and NLP tools on financial subreddit comments.
 [  [See the report (PDF)](/assets/files/ML_project.pdf) ]

@@ -37,4 +37,4 @@ gem 'kramdown-parser-gfm'
 gem 'webrick'
 
 
-gem "minimal-mistakes-jekyll"
+gem "minimal"

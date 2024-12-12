@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 # Specify the Jekyll version
 gem "jekyll", "~> 3.9.2"
-gem "webrick" # Required for Ruby 3.x
 gem "minima" # Replace "minimal" with "minima"
 
 # Add required plugins

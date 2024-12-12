@@ -2,7 +2,7 @@
 
 ---
 
-## **Wikipedia Adminship Requests: Data Science Analysis**
+## **Wikipedia Adminship Requests: Graphical, Temporal & Thematical Data Analysis**
 
 ### **Project Overview**
 This project explores the dynamics of the Request for Adminship (RfA) process on Wikipedia. Using a dataset of votes cast between 2003 and 2013, we analyzed voting patterns and outcomes to uncover insights into the governance mechanisms of Wikipedia.  

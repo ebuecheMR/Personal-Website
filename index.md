@@ -69,13 +69,15 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 
 <div style="flex: 1; margin-left: 20px;">
-<h2>Programming Languages</h2>
+<h2>Technical Skills</h2>
 <ul>
   <li><strong>Python</strong>: Advanced</li>
-  <li><strong>R</strong>: Intermediate</li>
-  <li><strong>MATLAB</strong>: Advanced</li>
-  <li><strong>C++</strong>: Intermediate</li>
   <li><strong>LaTeX</strong>: Advanced</li>
+  <li><strong>MATLAB</strong>: Advanced</li>
+  <li><strong>Excel</strong>: Advanced/Intermediate</li>
+  <li><strong>SQL</strong>: Intermediate</li>
+  <li><strong>R</strong>: Intermediate</li>
+  <li><strong>C++</strong>: Intermediate/Basic</li>
 </ul>
 </div>
 

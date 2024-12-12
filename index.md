@@ -19,15 +19,16 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 ---
 ---
+
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 20px;">
     <h2>Languages</h2>
     <ul>
-      <li><strong>French</strong> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" alt="French Flag" style="width: 20px; vertical-align: middle;"> (Native)</li>
-      <li><strong>English</strong> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" alt="UK Flag" style="width: 20px; vertical-align: middle;"> (Fluent)</li>
-      <li><strong>German</strong> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg" alt="German Flag" style="width: 20px; vertical-align: middle;"> (Proficient - B2)</li>
-      <li><strong>Spanish</strong> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" alt="Spanish Flag" style="width: 20px; vertical-align: middle;"> (Intermediate - B1)</li>
+      <li><strong>French</strong> (🇫🇷 France) (Native)</li>
+      <li><strong>English</strong> (🇬🇧 UK) (Fluent)</li>
+      <li><strong>German</strong> (🇩🇪 Germany) (Proficient - B2)</li>
+      <li><strong>Spanish</strong> (🇪🇸 Spain) (Intermediate - B1)</li>
     </ul>
   </div>
 

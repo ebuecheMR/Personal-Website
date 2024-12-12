@@ -113,6 +113,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 ---
 ---
 ### Professional Experience
+---
 
 - **Teaching Assistant**:  
   Assistant, helping student do the exercices, answer questions, correct exams.  
@@ -123,8 +124,11 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   Organized graduation trips for the mathematics section, displaying teamwork and leadership abilities.
 
 ---
+---
+
 
 ## Interests and Qualities
+---
 
 - **Interests**: Finance, mathematics, music (drums), programming, and psychology.
 - **Qualities**: Optimism, dedication, ability to learn quickly, and excellent interpersonal skills.

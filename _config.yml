@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Edouard Bueche
 email: edouard.bueche@epfl.ch
-baseurl: "https://github.com/" # the subpath of your site, e.g. /blog
-url: "http://edouardbueche.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Personal-Website" # the subpath of your site, e.g. /blog
+url: "https://ebuechemr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "ebuecheMR"
 
 # Build settings

@@ -89,7 +89,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 ---
 ---
 ## Academic
-
+---
 - **Master in Financial Engineering at:** 
   ![EPFL Logo]({{ site.baseurl }}/assets/img/logo.png){: width="75" style="display: inline; vertical-align: middle;" }
   - Quantitative Risk Management, Portfolio Management, Asset Management.
@@ -110,7 +110,8 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 [  [See the report (PDF)](/assets/files/ML_project.pdf) ]
   - Data science exploration of Wikipedia Adminship Requests, Community Detection & Power Voters.   [ [View Results (URL)](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/) ]
 
-
+---
+---
 ### Professional Experience
 
 - **Teaching Assistant**:  
@@ -121,10 +122,14 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 - **Travel Committee Member**:  
   Organized graduation trips for the mathematics section, displaying teamwork and leadership abilities.
 
+---
+
 ## Interests and Qualities
 
 - **Interests**: Finance, mathematics, music (drums), programming, and psychology.
 - **Qualities**: Optimism, dedication, ability to learn quickly, and excellent interpersonal skills.
+
+---
 
 ## Contact
 

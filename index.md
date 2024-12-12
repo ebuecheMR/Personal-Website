@@ -45,7 +45,6 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 </ul>
 </div>
 
-</div>
 ---
 ---
 

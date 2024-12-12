@@ -25,14 +25,15 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   <div style="flex: 1; margin-right: 20px;">
     <h2>Languages</h2>
     <ul>
-      <li><strong>French</strong> (🇫🇷 France) (Native)</li>
-      <li><strong>English</strong> (🇬🇧 UK) (Fluent)</li>
-      <li><strong>German</strong> (🇩🇪 Germany) (Proficient - B2)</li>
-      <li><strong>Spanish</strong> (🇪🇸 Spain) (Intermediate - B1)</li>
+      <li><strong>French</strong> <span style="display: inline-block; width: 20px; height: 14px; background: url('{{ site.baseurl }}/assets/img/flags/france.svg') no-repeat center; background-size: contain;"></span> (Native)</li>
+      <li><strong>English</strong> <span style="display: inline-block; width: 20px; height: 14px; background: url('{{ site.baseurl }}/assets/img/flags/uk.svg') no-repeat center; background-size: contain;"></span> (Fluent)</li>
+      <li><strong>German</strong> <span style="display: inline-block; width: 20px; height: 14px; background: url('{{ site.baseurl }}/assets/img/flags/germany.svg') no-repeat center; background-size: contain;"></span> (Proficient - B2)</li>
+      <li><strong>Spanish</strong> <span style="display: inline-block; width: 20px; height: 14px; background: url('{{ site.baseurl }}/assets/img/flags/spain.svg') no-repeat center; background-size: contain;"></span> (Intermediate - B1)</li>
     </ul>
   </div>
 
 </div>
+
 
 
 <div style="flex: 1; margin-left: 20px;">

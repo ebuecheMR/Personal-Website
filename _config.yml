@@ -22,7 +22,7 @@ github_username:  "ebuecheMR"
 # Build settings
 markdown: kramdown
 permalink: pretty 
-theme: minima
+theme: maxima
 plugins:
   - jekyll-feed
   - jekyll-sitemap

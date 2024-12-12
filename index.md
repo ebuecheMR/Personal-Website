@@ -6,8 +6,10 @@ title: Welcome to my Personal Website
 
 <img src="{{ site.baseurl }}/assets/img/pic3.jpeg" alt="Picture" style="width: 250px; float: right; margin: 0 0 20px 20px;">
 
-### Searching an Internship to do my Master Thesis, for February or July 2025.
+---
 
+### Searching a 6M-Internship to do my Master Thesis, available to start on February or July 2025.
+---
 
 ## Biography
 
@@ -20,12 +22,28 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 ---
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; gap: 20px; justify-content: space-between; align-items: flex-start;">
 
-  <div style="flex: 1; margin-right: 20px;">
+  <!-- Technical Skills Section -->
+  <div style="flex: 1;">
+    <h2>Technical Skills</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin-bottom: 10px;"><strong>Python</strong>: Advanced</li>
+      <li style="margin-bottom: 10px;"><strong>LaTeX</strong>: Advanced</li>
+      <li style="margin-bottom: 10px;"><strong>MATLAB</strong>: Advanced</li>
+      <li style="margin-bottom: 10px;"><strong>Excel</strong>: Advanced/Intermediate</li>
+      <li style="margin-bottom: 10px;"><strong>SQL</strong>: Intermediate</li>
+      <li style="margin-bottom: 10px;"><strong>R</strong>: Intermediate</li>
+      <li style="margin-bottom: 10px;"><strong>C++</strong>: Intermediate/Basic</li>
+    </ul>
+  </div>
+
+  <!-- Languages Section -->
+  <div style="flex: 1;">
     <h2>Languages</h2>
-    <ul>
-      <li><strong>French</strong> 
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin-bottom: 10px;">
+        <strong>French</strong> 
         <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
           <rect width="20" height="14" fill="#0055A4"/>
           <rect x="6.67" width="6.66" height="14" fill="#FFF"/>
@@ -33,7 +51,8 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
         </svg> 
         (Native)
       </li>
-      <li><strong>English</strong> 
+      <li style="margin-bottom: 10px;">
+        <strong>English</strong> 
         <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
           <rect width="20" height="14" fill="#00247D"/>
           <path d="M0,0 L20,14 M0,14 L20,0" stroke="#FFF" stroke-width="2"/>
@@ -43,7 +62,8 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
         </svg> 
         (Fluent)
       </li>
-      <li><strong>German</strong> 
+      <li style="margin-bottom: 10px;">
+        <strong>German</strong> 
         <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
           <rect width="20" height="4.67" fill="#000"/>
           <rect y="4.67" width="20" height="4.67" fill="#D00"/>
@@ -51,7 +71,8 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
         </svg> 
         (Proficient - B2)
       </li>
-      <li><strong>Spanish</strong> 
+      <li style="margin-bottom: 10px;">
+        <strong>Spanish</strong> 
         <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
           <rect width="20" height="4.67" fill="#AA151B"/>
           <rect y="4.67" width="20" height="4.67" fill="#F1BF00"/>
@@ -64,22 +85,6 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 </div>
 
-
-
-
-
-<div style="flex: 1; margin-left: 20px;">
-<h2>Technical Skills</h2>
-<ul>
-  <li><strong>Python</strong>: Advanced</li>
-  <li><strong>LaTeX</strong>: Advanced</li>
-  <li><strong>MATLAB</strong>: Advanced</li>
-  <li><strong>Excel</strong>: Advanced/Intermediate</li>
-  <li><strong>SQL</strong>: Intermediate</li>
-  <li><strong>R</strong>: Intermediate</li>
-  <li><strong>C++</strong>: Intermediate/Basic</li>
-</ul>
-</div>
 
 ---
 ---
@@ -96,6 +101,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   - Algebra, Geometry, Topology.
   - Optimization, Programming.
   - Statistics & Probability
+
 
 - **Projects**:
 

@@ -126,5 +126,3 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 **LinkedIn**: [Edouard Bueche](https://linkedin.com/in/edouard-bueche-941800332)  
 
 ---
----
----

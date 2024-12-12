@@ -26,6 +26,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
   <!-- Technical Skills Section -->
   <div style="flex: 1;">
+  ---
     <h2>Technical Skills</h2>
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li style="margin-bottom: 10px;"><strong>Python</strong>: Advanced</li>
@@ -41,6 +42,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   <!-- Languages Section -->
   <div style="flex: 1;">
     <h2>Languages</h2>
+    ---
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li style="margin-bottom: 10px;">
         <strong>French</strong> 

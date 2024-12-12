@@ -3,7 +3,6 @@
 ---
 
 ## **Wikipedia Adminship Requests: Data Science Analysis**
-### Authors: Tallula Graber, Benoit Matthey-dit-Doret, Malen Raychev, Edouard Bueche, Gal Pascual  
 
 ### **Project Overview**
 This project explores the dynamics of the Request for Adminship (RfA) process on Wikipedia. Using a dataset of votes cast between 2003 and 2013, we analyzed voting patterns and outcomes to uncover insights into the governance mechanisms of Wikipedia.  
@@ -22,10 +21,11 @@ This project explores the dynamics of the Request for Adminship (RfA) process on
 Explore more about voting patterns, success rates, and community dynamics:  
 [View Project Results](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/)
 
+**Authors**: *Tallula Graber, Benoit Matthey-dit-Doret, Malen Raychev, Edouard Bueche, Gal Pascual*
+
 ---
 
 ## **Sentiment Analysis on Reddit for Stock Market Predictions**
-### Authors: Edouard Bueche, Yassine Ben Said, Pierre Porchet  
 
 ### **Abstract**
 This project investigates whether Reddit sentiment can predict stock returns. By analyzing comments from 13 subreddits in 2021, we calculated sentiment scores using NLP techniques and applied machine learning models to evaluate predictive potential.
@@ -53,10 +53,11 @@ Sentiment analysis shows potential but needs integration with other financial in
 **Full Report**:  
 [Download Report (PDF)]({{ site.baseurl }}/assets/files/Reddit_Sentiment_Analysis.pdf)
 
+**Authors**: *Edouard Bueche, Yassine Ben Said, Pierre Porchet*
+
 ---
 
 ## **Detection of Short-Lived Market Bubbles Using Big Data**
-### Authors: Edouard Bueche  
 
 ### **Overview**
 This project investigates the phenomenon of short-lived market bubbles through predictive modeling and big data analysis. Using a combination of numerical data and natural language processing (NLP) techniques, we explored patterns and indicators of market anomalies.
@@ -69,6 +70,6 @@ This project investigates the phenomenon of short-lived market bubbles through p
 **Learn More**:  
 [See the Report (PDF)]({{ site.baseurl }}/assets/files/ML_project.pdf)
 
----
+**Authors**: *Edouard Bueche*
 
-This markdown format organizes your projects clearly and concisely, providing all relevant details while linking to your full reports and results. Let me know if you'd like further edits!```
+---

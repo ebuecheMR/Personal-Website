@@ -35,6 +35,7 @@ plugins:
 header_pages:   
   - cv.md
   - courses.md
+  - project.md
   - about.md
 
 

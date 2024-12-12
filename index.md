@@ -25,14 +25,15 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
   <div style="flex: 1; margin-right: 20px;">
     <h2>Languages</h2>
     <ul>
-      <li><strong>French</strong> <span aria-label="French flag">🇫🇷</span> (Native)</li>
-      <li><strong>English</strong> <span aria-label="UK flag">🇬🇧</span> (Fluent)</li>
-      <li><strong>German</strong> <span aria-label="German flag">🇩🇪</span> (Proficient - B2)</li>
-      <li><strong>Spanish</strong> <span aria-label="Spanish flag">🇪🇸</span> (Intermediate - B1)</li>
+      <li><strong>French</strong> <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="14" fill="#0055A4"/><rect x="6.67" width="6.66" height="14" fill="#FFF"/><rect x="13.33" width="6.67" height="14" fill="#EF4135"/></svg> (Native)</li>
+      <li><strong>English</strong> <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="14" fill="#00247D"/><path d="M0,0 L20,14 M0,14 L20,0" stroke="#FFF" stroke-width="2"/><path d="M0,7 L20,7 M10,0 L10,14" stroke="#FFF" stroke-width="4"/></svg> (Fluent)</li>
+      <li><strong>German</strong> <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="4.67" fill="#000"/><rect y="4.67" width="20" height="4.67" fill="#D00"/><rect y="9.34" width="20" height="4.66" fill="#FFCE00"/></svg> (Proficient - B2)</li>
+      <li><strong>Spanish</strong> <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="4.67" fill="#AA151B"/><rect y="4.67" width="20" height="4.67" fill="#F1BF00"/><rect y="9.34" width="20" height="4.66" fill="#AA151B"/></svg> (Intermediate - B1)</li>
     </ul>
   </div>
 
 </div>
+
 
 
 

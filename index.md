@@ -51,12 +51,12 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
 
 ## Academic
 
-- **Master in Financial Engineering at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" }
+- **Master in Financial Engineering at:** ![](/assets/img/logo.png){: width="75" style="display: inline; vertical-align: middle;" }
   - Quantitative Risk Managment, Portfolio Managment, Asset Managment.
   - Data Science and Machine Learning coursework beside mandatory course.
   - Stochastic Process, Time Serie Analysis, Probability Theory.
 
-- **Bachelor in Mathematics at:** ![](/assets/img/logo.png){: width="80" style="display: inline; vertical-align: middle;" }
+- **Bachelor in Mathematics at:** ![](/assets/img/logo.png){: width="75" style="display: inline; vertical-align: middle;" }
   - Algebra, Geometry, Topology.
   - Optimisation, Programming.
   - Statistics & Probability

@@ -4,7 +4,7 @@ title: Welcome to my Personal Website
 ---
 
 
-<img src="/assets/img/pic3.jpeg" alt="Picture" style="width: 250px; float: right; margin: 0 0 20px 20px;">
+<img src="{{ site.baseurl }}/assets/img/pic3.jpeg" alt="Picture" style="width: 250px; float: right; margin: 0 0 20px 20px;">
 
 ### Searching an Internship to do my Master Thesis, for February or July 2025.
 

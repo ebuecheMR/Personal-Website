@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 
 ## Download My CV
-Download the latest CV in [PDF format](/assets/files/CV_E.pdf).
+Download the latest CV in [PDF format]({{ site.baseurl }}/assets/files/CV_E.pdf).
 
-![Edouard Bueche profile picture](/assets/img/pic.jpg){: width="200" style="display: block; margin: auto;" }
+![Edouard Bueche profile picture]({{ site.baseurl }}/assets/img/pic.jpg){: width="200" style="display: block; margin: auto;" }
 
 ---
 
@@ -68,7 +68,7 @@ Developed predictive models to detect and analyze short-lived financial trends u
 
 ### Building a Trading Strategy Using Subreddit Sentiment Analysis  
 Analyzed subreddit comments using natural language processing (NLP) techniques to identify actionable insights and monitor market trends.  
-[See the full report (PDF)](/assets/files/ML_project.pdf)
+[See the full report (PDF)]({{ site.baseurl }}/assets/files/ML_project.pdf)
 
 ### Wikipedia Adminship Requests Data Science Analysis  
 Applied clustering and graph-based techniques to analyze user behavior and voting patterns in community dynamics.  

@@ -32,11 +32,11 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
 
-header_pages: 
-  - about.md
-  - collections.md
-  - courses.md
+header_pages:   
   - cv.md
+  - courses.md
+  - about.md
+
 
 
 # Exclude from processing.

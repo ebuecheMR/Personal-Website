@@ -1,40 +1,30 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Specify the Jekyll version
 gem "jekyll", "~> 3.9.2"
+gem "webrick" # Required for Ruby 3.x
+gem "minima" # Replace "minimal" with "minima"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
+# Add required plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-sitemap'
-  gem 'jekyll-mentions'
-  gem 'jekyll-paginate'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-redirect-from'
+  gem "jekyll-sitemap"
+  gem "jekyll-mentions"
+  gem "jekyll-paginate"
+  gem "jekyll-seo-tag"
+  gem "jekyll-redirect-from"
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# Compatibility for Markdown parsing
+gem "kramdown-parser-gfm"
+
+# Include `webrick` for Ruby 3.x compatibility
+gem "webrick"
+
+# Ensure timezone data compatibility for Windows
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Performance booster for directory watching on Windows
+gem "wdm", "~> 0.1.0", platforms: [:mingw, :mswin, :x64_mingw]
 
-gem 'kramdown-parser-gfm'
-
-gem 'webrick'
-
-
-gem "minimal"
+# Add `actionpack` if specifically required by your project

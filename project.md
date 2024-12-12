@@ -1,6 +1,9 @@
-# Projects
-
 ---
+layout: page
+title: "Projects"
+permalink: /projects/
+---
+
 
 ## **Wikipedia Adminship Requests: Graphical, Temporal & Thematical Data Analysis**
 
@@ -19,9 +22,9 @@ This project explores the dynamics of the Request for Adminship (RfA) process on
 
 ### **Interactive Results**
 Explore more about voting patterns, success rates, and community dynamics:  
-[View Project Results](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/)
+[View Project Results (URL)](https://epfl-ada.github.io/ada-2024-project-supercoolteamname2024/)
 
-**Authors**: *Tallula Graber, Benoit Matthey-dit-Doret, Malen Raychev, Edouard Bueche, Gal Pascual*
+**Authors**: *Tallula Graber, Benoit Matthey-dit-Doret, Malen Raychev, Gal Pascual, Edouard Bueche.*
 
 ---
 
@@ -32,8 +35,7 @@ This project investigates whether Reddit sentiment can predict stock returns. By
 
 **Key Data Points**:  
 - **Comments analyzed**: 500,000+  
-- **Labeled comments**: 3,500 (specific to Tesla, S&P 500, and other major stocks).  
-- **Sentiment tools**: VADER, TextBlob, GPT-3.5-turbo.
+- **Labeled comments**: Label comments using LLM's to know which is the global sentiments of that subreddit post regarding particular stocks.
 
 ### **Methodology**
 1. **Data Preprocessing**: Cleaned noisy data and labeled stock-specific comments using GPT-3.5-turbo.  
@@ -43,15 +45,15 @@ This project investigates whether Reddit sentiment can predict stock returns. By
 ### **Key Findings**
 - **Correlation**: Weak overall correlation between sentiment and stock returns (e.g., 0.15 for S&P 500).  
 - **Model Performance**:  
-  - **Random Forest**: Best performance with 67.21% directional accuracy for Tesla (GPT sentiment).  
+  - **Random Forest**: Best performance with good directional accuracy out of the training sample.  
   - **LSTM**: Effective for time-series data but resource-intensive.  
-  - **Gradient Boosting**: Moderate performance (57.38% directional accuracy for S&P 500 with TextBlob).  
+  - **Gradient Boosting**: Moderate performance of directional accuracy for S&P 500 and other stocks.  
 
 ### **Conclusion**
 Sentiment analysis shows potential but needs integration with other financial indicators. Data sparsity and methodology refinement are critical for improved outcomes.
 
 **Full Report**:  
-[Download Report (PDF)]({{ site.baseurl }}/assets/files/Reddit_Sentiment_Analysis.pdf)
+[See the Report (PDF)]({{ site.baseurl }}/assets/files/ML_project.pdf)
 
 **Authors**: *Edouard Bueche, Yassine Ben Said, Pierre Porchet*
 
@@ -64,12 +66,12 @@ This project investigates the phenomenon of short-lived market bubbles through p
 
 ### **Key Insights**
 - Developed predictive models to detect short-lived financial trends.  
-- Combined numerical and sentiment data from financial subreddits.  
+- Combine big data (Intraday) and vectorization & optimisation to achieve good performance.  
 - Highlighted limitations in data volume and predictive accuracy.  
 
 **Learn More**:  
-[See the Report (PDF)]({{ site.baseurl }}/assets/files/ML_project.pdf)
+Project ending in late January 2025.
 
-**Authors**: *Edouard Bueche*
+**Authors**: *Gustave Besacier, Guillaume Ferrer, Edouard Bueche*
 
 ---

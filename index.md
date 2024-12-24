@@ -78,6 +78,7 @@ Outside academics, I played drums for 12 years, demonstrating discipline, coordi
           <rect y="4.67" width="20" height="4.67" fill="#F1BF00"/>
           <rect y="9.34" width="20" height="4.66" fill="#AA151B"/>
         </svg> 
+        (Intermediate - B2)
       </li>
       <li style="margin-bottom: 10px;">
         <strong>Italian</strong> 

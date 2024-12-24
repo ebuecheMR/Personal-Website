@@ -15,7 +15,6 @@ title: Welcome to my Personal Website
 
 I am currently pursuing a Master’s degree in Financial Engineering at EPFL, specializing in data science and machine learning. I hold a Bachelor’s degree in Mathematics from EPFL, with a focus on algebra, geometry, and optimization. My strong analytical skills and technical expertise are complemented by a passion for problem-solving and innovation in finance and data analysis.
 
-My academic projects include analyzing financial subreddit data to develop trading strategies and using data science techniques to uncover patterns in community voting behaviors on Wikipedia. I am also passionate about leveraging advanced analytical tools such as Python, MATLAB, and R to solve complex challenges in finance and beyond.
 I am also passionate about leveraging advanced analytical tools such as Python, MATLAB, and R to solve complex challenges in finance and beyond.
 
 Outside academics, I played drums for 12 years, demonstrating discipline, coordination, and a strong sense of teamwork.

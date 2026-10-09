@@ -51,3 +51,20 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# 2026 rebrand: single-page site in index.html; old minima pages retired
+exclude:
+  - index.md
+  - about.md
+  - cv.md
+  - courses.md
+  - project.md
+  - publications.md
+  - collections.md
+  - collections/
+  - pages/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site/
+  - .sass-cache/
